@@ -1,1 +1,1 @@
-# ej_alert_and_pront
+# ej_alert_and_prompt
